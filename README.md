@@ -1,8 +1,8 @@
-🙋🏽‍♂️ Hi, I’m @Raysbaelo 
+🙋🏽‍♂️ Hi, I’m Rayane. 
 🛠 I’m currently learning Ruby, JS, CSS.  
 💻 I’m looking to collaborate on Frontend project and tips, CSS, Ruby 🩸 and JS. 
                
-                Keep in touch ? 💌 --> rayane-09-38@live.fr
+                Keep in touch ? --> rayane-09-38@live.fr
 
 <!---
 Raysbaelo/Raysbaelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

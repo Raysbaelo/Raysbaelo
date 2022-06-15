@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, ES6**
 
-- 💬 Ask me about **Rails, css and ruby**
+- 💬 Ask me about **Ruby on rails and Javascript**
 
 - 📫 How to reach me **rayane-09-38@live.fr**
 

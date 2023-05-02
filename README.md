@@ -1,4 +1,4 @@
-<h1 align="center">I'm Rayane ♺ </h1>
+<h1 align="center">Hi there ! I'm Rayane, shopify liquid / CMS developer  </h1>
 
  Reach me at **rayane-09-38@live.fr**
 

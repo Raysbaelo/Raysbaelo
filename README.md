@@ -2,5 +2,6 @@
 
  Reach me at **rayane-09-38@live.fr**
 
-<p style"text-align:center;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raysbaelo&show_icons=true&locale=en&layout=compact" alt="raysbaelo" /></p>
+<p style"text-align:center;">
+<img style"margin:auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raysbaelo&show_icons=true&locale=en&layout=compact" alt="raysbaelo" /></p>
 

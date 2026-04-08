@@ -1,7 +1,18 @@
-<h1 align="center">Hi there ! I'm Rayane, shopify liquid / CMS developer  </h1>
+<h1 align="center">Hi there 👋 I'm Rayane</h1>
 
- Reach me at **rayane-09-38@live.fr**
+<p align="center">
+Shopify Front-end Developer • Liquid • JavaScript • Tailwind • AI-assisted workflows
+</p>
 
-<p style"text-align:center;">
-<img style"margin:auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raysbaelo&show_icons=true&locale=en&layout=compact" alt="raysbaelo" /></p>
+<p align="center">
+I build high-performing Shopify experiences with a strong focus on performance, scalability, and clean code.<br/>
+Currently working across multiple stores, from small improvements to full-scale management.
+</p>
 
+<p align="center">
+📩 Reach me at <strong>rayane.baelodev@gmail.com</strong>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raysbaelo&show_icons=true&locale=en&layout=compact" alt="raysbaelo" />
+</p>
